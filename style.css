@@ -1,0 +1,74 @@
+body {
+    background-color: #EAF6FE;
+    text-align: center;
+}
+h1 {
+    font-family: French Script MT Regular ;
+    color: #66BFBF;
+    margin: 0;
+    display: inline-block;
+    font-size: 1000%;
+    padding: 50px;
+}
+.web {
+    position: relative;
+    left: 3px;
+    bottom: 100px;
+    font-family: Segoe Print;
+    font-size: 300%;
+}
+h2 {
+    font-family:Segoe UI;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.img-div img{
+    width: 30%;
+    height: 20%;
+    border-radius: 100%;
+}
+p {
+color: black;
+font-family: Baskerville Old Face Regular;
+font-size: 150%;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-radius: 10;
+    border-width: 8px;
+    border-color: grey;
+    width: 3%;
+}
+h3 {
+    color: #66BFBF;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-raduis: 8;
+    -moz-border-raduis: 8;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.Contact{
+    font-family: Berlin Sans FB;
+    font-size: 150%;
+}
